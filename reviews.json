@@ -1,0 +1,14 @@
+[
+  {
+    "name": "王小明",
+    "achievement": "考取第一志願",
+    "comment": "老師很用心，環境很棒！",
+    "photo": "https://via.placeholder.com/100"
+  },
+  {
+    "name": "李小華",
+    "achievement": "數學進步30分",
+    "comment": "終於聽懂幾何了！",
+    "photo": "https://via.placeholder.com/100"
+  }
+]
